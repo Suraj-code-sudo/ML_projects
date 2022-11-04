@@ -1,0 +1,10 @@
+(2) MSZoning - Encoding => Label Encoder
+(3) LotFrontage - Simple_Imputer replace with average value.
+(4) LotArea - Feature Scaling
+(5 - 16)Street, Alley, LotShape, LandContour, Utilities, LotConfig, LandSlope, Neighborhood, Condition1, Condition2, BldgType, HouseStyle - Label Encoder
+(21 - 25)RoofStyle, RoofMatl, Exterior1st, Exterior2nd, MasVnrType - Label Encoder
+(27 - 33)ExterQual, ExterCond, Foundation, BsmtQual, BsmtCond, BsmtExposure, BsmtFinType1 - Label Encoder
+(35)BsmtFinType2 - Label Encoder
+(39 - 42)Heating, HeatingQC, CentralAir, Electrical - Label Encoder
+(54, 56, 58, 59, 61, 64-66, 73-75, 79, 80) - Label Encoding
+
